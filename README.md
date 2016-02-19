@@ -1,16 +1,8 @@
-# one-page-template
-A free flat personal onepage html template.
+# comming soon
+A free comming soon countdown page
 
-Demo
-
-<h3> Features</h3>
-
-- Flat design<br>
-- non-responsive<br>
-- Animating skill bar<br>
-- Interactive menu<br>
-- Contact form
+[Demo](http://demo.marcoherremans.com/comming-soon/)
 
 <h3>License</h3>
 
-The theme itself is licensed under The MIT License (MIT), the underlying materials used to make this theme are: [Social flat icons set](https://dribbble.com/shots/2247532-Freebies-Social-flat-icons-set) (Free to use), [Free stock photos ](https://www.pexels.com/) (Free to use (CC0)), [Big John font](https://www.behance.net/gallery/19484739/big-john-slim-joe-free-font) ([CC BY-NC-ND 4.0 licence](https://creativecommons.org/licenses/by-nc-nd/4.0/)), [Animated bars](http://designify.me/tutorials/show-off-your-skills-with-css-animated-bars/) and [Smint](http://www.outyear.co.uk/smint/) (MIT Licence) . Please also respect there license and comply with theirs.
+The page itself is licensed under The MIT License (MIT), the underlying material I used is [Freebie: "Please Stand By" 404 Error Page](https://www.behance.net/gallery/32576001/Freebie-Please-Stand-By-404-Error-Page) which is licenced under [the following](http://creativecommons.org/licenses/by/4.0/deed). Please also respect that licence.
